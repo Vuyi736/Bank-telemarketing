@@ -32,18 +32,22 @@ What this project also uncovered was that clients who had been contacted previou
   - CPI was 93.58. Generally, below 100 is a good number, but it is dependent on each country's economy and inflation.
 - Clients who had been contacted previously in another campaign were more willing to sign up, suggesting that familiarity gives clients more confidence. Again, it could also be that contact plants suggestions in their minds that make subsequent campaigns more successful. It could also suggest that client satisfaction increases because they feel that they keep being contacted for 'good things' which leads them to sign up.
 - May, July and August were the periods of most sign-ups, with May topping the list.  
-- Duration and contact types.
+- The average call duration was 258.32s. It was longer for clients that signed up. Most of the clients were contacted by cell phone, which is also understandable given the demographics of the clients that signed up.
 
 ## RECOMMENDATIONS
 1. Similar campaigns should target the educated, working-class people who have steady income, the more they save, the better for both of us.
 2. Increase our efforts in contacting clients regardless of whether they sin up or not, we will increase the chances for another campaign.
 3. Timing for campaigns should be looked into, why do we only focus on the middle of the year? Since we understand that budgets are being finalized in the first Quarter, we should campaign hard from end of the Q1 to before end of the fiscal year.
-
-## LIMITATIONS
+4. Though it is hard, we should also strive to keep our potential clients interested, so that the marketing team can effectively explain everything about the campaign on phone.
 
 ## REFERENCES
+1. Moro, S., Rita, P., Cortez, P.(2014). A data-driven approach to predict the success of bank telemarketing. _Decision Support Systems_. https://dx.doi.org/10.10116/J.d8.2014.03.001. Retrieved from https://archive.ics.uci.edu/dataset/222/bank+marketing 
 
 ## DASHBOARD
+
+
+https://github.com/user-attachments/assets/0e88910b-5e62-4ae2-a0d9-bccc56727867
+
 
 
 
