@@ -40,6 +40,9 @@ What this project also uncovered was that clients who had been contacted previou
 3. Timing for campaigns should be looked into, why do we only focus on the middle of the year? Since we understand that budgets are being finalized in the first Quarter, we should campaign hard from end of the Q1 to before end of the fiscal year.
 4. Though it is hard, we should also strive to keep our potential clients interested, so that the marketing team can effectively explain everything about the campaign on phone.
 
+## LIMITATIONS
+- This dataset has other versions that have other attributes like the 'Date attribute'. This one does not have that so time series analysis could not be performed nicely. Other versions also have an 'average yearly Balance attribute' which could be used to pinpoint who has the threshold for saving.
+
 ## REFERENCES
 1. Moro, S., Rita, P., Cortez, P.(2014). A data-driven approach to predict the success of bank telemarketing. _Decision Support Systems_. https://dx.doi.org/10.10116/J.d8.2014.03.001. Retrieved from https://archive.ics.uci.edu/dataset/222/bank+marketing 
 
