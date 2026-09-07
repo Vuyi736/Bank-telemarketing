@@ -1,8 +1,8 @@
 ## BANK TELEMARKETING CAMPAIGN
-Analysis of telemarketing outcome with socio-economic context for a bank in Portugal (2014).
+Analysis of telemarketing outcome with socio-economic context for a Portuguese bank (2014).
 
 ## PROJECT OVERVIEW
-The goal of this project is to determine the effectiveness of a telemarketing campaign for a bank in Portugal in 2014. The project aims to determine if clients were able to sign up for a fixed term deposit and to determine what socio-economic factors played a role in subsequent actions, be it success or failure. This is important for designing other campaigns in the future.
+The goal of this project is to determine the effectiveness of a telemarketing campaign for a Portuguese bank from 2008-2010. The project aims to determine if clients were able to sign up for a fixed term deposit and to determine what socio-economic factors played a role in subsequent actions, be it success or failure. This is important for designing other campaigns in the future.
 
 ## EXECUTIVE SUMMARY
 In 2014, the average Euribor/3months stood at 3.62, consumer confidence index (CCI) at -40.50 and consumer price index (CPI) at 93.58. The aforementioned played a role in whether clients signed up for a fixed term deposit. Out of 41K clients, 11.27% signed up, which is actually a good number. This is directly linked to the low CCI because it can be assumed that people did not have confidence in the economy, which triggered saving behavior, hence, the higher sign-up rate. The demographics of clients included educated working class people, with not much of difference between married ones and single ones although the former was higher. In order for people to save, we should also understand that the cost of living should not be too high, thus, CPI which is below 100 tells us that people have extra funds to save. Of course, the Euribor also played a role, it was quite attractive at the time.
@@ -23,7 +23,7 @@ What this project also uncovered was that clients who had been contacted previou
 - Duration of calls and contact type (Cell phone or telephone)
 
 ## FINDINGS AND INSIGHTS
-- Sign-up rate was 11.27% which was high.
+- Sign-up rate was 11.27% which was within what the industry considers good.
 - Educated, working class people had higher sign-ups
 - Married people saved more than the unmarried
 - Macroeconomics
