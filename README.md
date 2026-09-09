@@ -11,6 +11,7 @@ What this project also uncovered was that clients who had been contacted previou
 ## KEY METTRICS ANALYZED
 - Sign-up rate
 - Socio-economic factors
+  - Age
   - Job type
   - Education
   - Marital status
@@ -26,6 +27,9 @@ What this project also uncovered was that clients who had been contacted previou
 - Sign-up rate was 11.27% which was within what the industry considers good.
 - Educated, working class people had higher sign-ups
 - Married people saved more than the unmarried
+
+<img width="254" height="181" alt="Screenshot 2026-09-09 221310" src="https://github.com/user-attachments/assets/33a00962-ee8c-4bd0-b962-5a09b7ec4f7a" />
+  
 - Macroeconomics
   - Avg Euribor was 3.62
   - CCF was -40.50
