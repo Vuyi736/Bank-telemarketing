@@ -46,7 +46,7 @@ What this project also uncovered was that clients who had been contacted previou
 4. Though it is hard, we should also strive to keep our potential clients interested, so that the marketing team can effectively explain everything about the campaign on phone.
 
 ## LIMITATIONS
-- This dataset has other versions that have other attributes like the 'Date attribute'. This one does not have that so time series analysis could not be performed nicely . another version has an 'average yearly Balance attribute' which could be used to pinpoint what the threshold is for saving.
+- This dataset has other versions that have other attributes like the 'Date attribute'. This one does not have that so time series analysis could not be performed nicely, we could have calculated inflation if there was any from 2008. Another version has an 'average yearly Balance attribute' which could be used to pinpoint what the threshold is for saving.
 
 ## REFERENCES
 1. Moro, S., Rita, P., Cortez, P.(2014). A data-driven approach to predict the success of bank telemarketing. _Decision Support Systems_. https://dx.doi.org/10.10116/J.d8.2014.03.001. Retrieved from https://archive.ics.uci.edu/dataset/222/bank+marketing 
