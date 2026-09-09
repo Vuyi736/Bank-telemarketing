@@ -1,5 +1,5 @@
 ## BANK TELEMARKETING CAMPAIGN
-Analysis of telemarketing outcome with socio-economic context for a Portuguese bank (2014).
+Analysis of telemarketing outcome with socio-economic context for a Portuguese bank (2008-2010).
 
 ## PROJECT OVERVIEW
 The goal of this project is to determine the effectiveness of a telemarketing campaign for a Portuguese bank from 2008-2010. The project aims to determine if clients were able to sign up for a fixed term deposit and to determine what socio-economic factors played a role in subsequent actions: success or failure. This is important for designing other campaigns in the future.
