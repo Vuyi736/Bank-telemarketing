@@ -28,7 +28,8 @@ What this project also uncovered was that clients who had been contacted previou
 - Educated, working class people had higher sign-ups
 - Married people saved more than the unmarried
 
-<img width="254" height="181" alt="Screenshot 2026-09-09 221310" src="https://github.com/user-attachments/assets/33a00962-ee8c-4bd0-b962-5a09b7ec4f7a" />
+<img width="251" height="174" alt="Screenshot 2026-09-09 223031" src="https://github.com/user-attachments/assets/fe717b3b-970c-46c3-abc9-26f882078dc9" />
+
   
 - Macroeconomics
   - Avg Euribor was 3.62
