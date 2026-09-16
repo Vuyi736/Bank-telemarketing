@@ -45,6 +45,10 @@ What this project also uncovered was that clients who had been contacted previou
 3. Timing for campaigns should be looked into, why do we only focus on the middle of the year? Since we understand that budgets are being finalized in the first Quarter, we should campaign hard from end of the Q1 to before end of the fiscal year.
 4. Though it is hard, we should also strive to keep our potential clients interested, so that the marketing team can effectively explain everything about the campaign on phone.
 
+## TOOLS USED
+- Power BI
+- MS Excel
+
 ## LIMITATIONS
 - This dataset has other versions that have other attributes like the 'Date attribute'. This one does not have that so time series analysis could not be performed nicely, we could have calculated inflation if there was any from 2008. Another version has an 'average yearly Balance attribute' which could be used to pinpoint what the threshold is for saving.
 
